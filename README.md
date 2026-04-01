@@ -43,10 +43,10 @@ Viewing behavior varies across generations, with younger users more likely to bi
 Content discovery is largely driven by recommendations and cost-related factors
 
 ## 🚀 Future Improvements
-Incorporate additional datasets for broader behavioral analysis
-Add time-based trends to track changes over time
+Incorporate additional datasets for broader behavioral analysis\
+Add time-based trends to track changes over time\
 Enhance sentiment scoring using more detailed survey responses
 
 ## 👤 Author
-Prarthana Shetty
+Prarthana Shetty\
 Master’s in Information Systems | Data Analytics
