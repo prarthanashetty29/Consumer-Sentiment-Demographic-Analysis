@@ -47,6 +47,6 @@ Incorporate additional datasets for broader behavioral analysis
 Add time-based trends to track changes over time
 Enhance sentiment scoring using more detailed survey responses
 
-##👤 Author
+## 👤 Author
 Prarthana Shetty
 Master’s in Information Systems | Data Analytics
